@@ -1,0 +1,2 @@
+# EventManager
+Another event pipeline.
